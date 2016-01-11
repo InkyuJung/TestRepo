@@ -1,3 +1,0 @@
-TestFileLine1
-TestFileLine2
-TestFileLine3
